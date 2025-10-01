@@ -6,3 +6,7 @@ this is the second commit blah blah blah
 _________________________________________
 
 this is the third bad commit
+
+_________________________________________
+
+this is the final bad commit
